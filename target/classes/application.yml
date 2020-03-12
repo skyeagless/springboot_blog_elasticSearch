@@ -6,7 +6,7 @@ spring:
     driver-class-name: com.mysql.jdbc.Driver
     url: jdbc:mysql://localhost:3306/es_blog?useUnicode=true&characterEncoding=utf-8
     username: root
-    password: awpak47m4a1
+    password: **1
     # hikari 数据源专用配置
     hikari:
       maximum-pool-size: 20
